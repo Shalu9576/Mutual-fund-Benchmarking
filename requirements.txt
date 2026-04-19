@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+yfinance
+sqlalchemy
+pymysql
+matplotlib
+seaborn
+cryptography
+

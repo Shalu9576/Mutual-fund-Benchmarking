@@ -1,0 +1,28 @@
+# Local secrets (copy from config.example.py)
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# Logs and debug
+*.log
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+*.swp
+
+# Generated outputs (recreated by src/03_visualization.py)
+outputs/*
+!outputs/.gitkeep
